@@ -1,0 +1,15 @@
+{
+	"name": "df-sisger-datalake-5756067",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "179c8782-60e8-4ab0-84eb-a00f8cf77406",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
